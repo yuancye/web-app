@@ -8,7 +8,10 @@
 ```
 git remote add origin https://github.com/yuancye/web-app.git
 git add .
-git commit -m "create the frontend using react"
+git commit -m "installed frontendand backend"
 git branch -M main
 git push origin main
+```
+
+```git config pull.rebase false
 ```
