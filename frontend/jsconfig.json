@@ -1,8 +1,0 @@
-{
-  "compilerOptions": {
-    "baseUrl": ".",  // Ensures the root starts from the project directory
-    "paths": {
-      "@/*": ["src/*"]
-    }
-  }
-}
